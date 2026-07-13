@@ -1,0 +1,1 @@
+# Django notifications app package
